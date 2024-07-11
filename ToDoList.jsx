@@ -18,6 +18,7 @@ const ToDoList = ({ tasks }) => {
 const styles = StyleSheet.create({
   list: {
     marginBottom: 20,
+    padding: 10,
   },
   task: {
     padding: 15,
